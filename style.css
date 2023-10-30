@@ -71,6 +71,14 @@ text-align: left;
 
 }
  
+.weather{display: none;}
+.weather.active{display: block;}
+
+.error{text-align: left;
+margin-left: 10px;
+font-size: 14px;
+margin-top: 10px;
+display: none;}
 
 .weather-img{width: 170px;
 margin-top: 30px;
